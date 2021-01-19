@@ -6,16 +6,6 @@ I consider myself an entrepreneur, pro-active and self-taught, polyglot of langu
 Developer in my free time and technology enthusiast. Growth hacker.  
 Community Manager, Positioning, Management and Development of Communities, Graphic Design or Social Media, doesn't matter what, but always with something to do.
 
-# Work Experience
-```mermaid
-graph LR
-A[Freelance] -- 3 Years --> B[EveryMundo LLC]
-B -- 1 year--> C[AcidTango]
-C -- 3 years--> D[CoverWallet]
-D -- 2 years--> E((Right Now))
-```
-Working for all this companies i gained lot of experience in different tecnologies and ways of code, patterns and developer stuffs.
-
 ## Developer Skills
 
 Im going to organize my skills below. First i will start with **code languages**:
@@ -31,7 +21,7 @@ Im going to organize my skills below. First i will start with **code languages**
 and we can continue with **databases**:
 
 | Relational | Documental | 
-|--|--|--|--|--|
+|--|--|
 | MySQL | MongoDB | 
 | PostgreSQL | ElasticSearch |
 
