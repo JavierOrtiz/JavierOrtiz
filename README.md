@@ -53,3 +53,4 @@ Also i have experience with GraphQL.
 - English 
 - Spanish (native)
 
+[Here you can download a copy of my CV updated.](https://drive.google.com/file/d/16z0PGBVhd_g3A3J3vgGJlfSjlQvwhtiQ/view?usp=sharing)
