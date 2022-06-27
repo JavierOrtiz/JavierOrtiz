@@ -8,7 +8,7 @@ Community Manager, Positioning, Management and Development of Communities, Graph
 
 # Work Experience
 
- ## **CoverWallet by Aon** (Actual. 2 years)
+ ## **CoverWallet by Aon** (Actual. 3 years)
  Working most the time in Ruby and JS, here i learned a lot from microservices, continuous integration, devops tools like Kubernetes or docker, good practices and much more. I have been a scrum master, and well, it was a good try. 😂
  
  ## **AcidTango** (3 years)
