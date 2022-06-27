@@ -1,5 +1,5 @@
 # Welcome!
-Hi! Im [Javier](https://www.linkedin.com/in/javierortizc/), "Full Stack developer" right now working at [CoverWallet](https://github.com/coverwallet).
+Hi! Im [Javier](https://www.linkedin.com/in/javierortizc/), "Full Stack developer".
 
 I consider myself an entrepreneur, pro-active and self-taught, polyglot of languages.
 
