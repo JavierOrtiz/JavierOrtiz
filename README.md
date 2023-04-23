@@ -39,4 +39,11 @@ Also i have experience with GraphQL.
 - English 
 - Spanish (native)
 
+** Extra **
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JavierOrtiz)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierOrtiz)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 [Here you can download a copy of my CV updated.](https://drive.google.com/file/d/16z0PGBVhd_g3A3J3vgGJlfSjlQvwhtiQ/view?usp=sharing)
